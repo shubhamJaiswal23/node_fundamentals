@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "This is a sample description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham Jaiswal",
+  "license": "MIT",
+  "dependencies": {
+    "pokemon": "^2.3.6"
+  }
+}
